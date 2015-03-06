@@ -10,7 +10,7 @@
 
 ## Write-up
 
-(TODO)
+> Just run strings login and whatch the magic happen
 
 ## Other write-ups and resources
 
